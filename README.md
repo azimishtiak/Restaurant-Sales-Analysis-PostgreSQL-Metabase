@@ -10,4 +10,5 @@ This project delivers a data-driven dashboard built using Metabase and PostgreSQ
 The project breaks down what sells, when it sells, and how it contributes to overall business performance through dashboards. It includes visualizations of sales trends over time, item and category-wise contributions, price segment analysis, customer ordering behavior, and more.
 
 ### Project Link:
+https://1drv.ms/b/c/b450bede2bbd16bc/EUFekome22lGkQhjuuHxvvIBpRZhkO3dIWS2vo3ddbaNIA?e=4lmFye
 
