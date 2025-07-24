@@ -4,11 +4,13 @@ This project delivers a data-driven dashboard built using Metabase and PostgreSQ
 
 - Sales performance
 - Product performance
-- Temporal order trends
-- Revenue optimization
+- Order trends
+- Time Based Insights
 
 The project breaks down what sells, when it sells, and how it contributes to overall business performance through dashboards. It includes visualizations of sales trends over time, item and category-wise contributions, price segment analysis, customer ordering behavior, and more.
 
-### Project Link:
+## Project Link:
 https://1drv.ms/b/c/b450bede2bbd16bc/EUFekome22lGkQhjuuHxvvIBpRZhkO3dIWS2vo3ddbaNIA?e=4lmFye
+
+
 
