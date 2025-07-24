@@ -1,4 +1,4 @@
-# Restaurant-Sales&Order-Analysis-PostgreSQL-Metabase
+# Restaurant-Sales & Order-Analysis-PostgreSQL-Metabase
 ## Project Description
 This project delivers a data-driven dashboard built using Metabase and PostgreSQL, with data hosted in Supabase, to analyze and visualize restaurant sales and order patterns. The goal is to transform raw transactional data into actionable insights that guide decision-making across key business areas such as:
 
