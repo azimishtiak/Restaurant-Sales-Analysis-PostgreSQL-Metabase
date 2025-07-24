@@ -12,5 +12,44 @@ The project breaks down what sells, when it sells, and how it contributes to ove
 ## Project Link:
 https://1drv.ms/b/c/b450bede2bbd16bc/EUFekome22lGkQhjuuHxvvIBpRZhkO3dIWS2vo3ddbaNIA?e=4lmFye
 
+## Analyis Summary
+- KPIs like total sales, total orders placed, AOV and average item per order
+- Time wise revenue contribution
+- Revenue and orders by category
+- Category wise item revenue flow
+- Revenue trend over time
+- Price sensitivity across categories
+
+## Sales Performance Analysis
+- KPIs: Total sales, Monthly average sales, Average daily sale and MoM Sales Growth
+- Monthly Accumulated Sales
+- 10 dys moving average sales trend
+- Price impact on sales
+- Sales distribution by price segment
+- MoM Sales Growth(%)
+- Cumulative daily sales
+
+## Time Based Insights
+- Hourly order pattern
+- Order trend across days
+- Orders across time slots
+- Order volue across time
+
+## Product Performance
+- Most ordered and revenue generating item
+- Top and bottom 3 items from each category by sales
+- Iten wise order count
+- Items with order volume less than 3
+- Top 10 items ordered together
+- Rank items based on revenue
+
+## Recommendations
+- Optimize Menu Based on Performance
+- Leverage Time-Based Promotions
+- Refine Pricing Strategy
+- Support Forecasting and Inventory Planning
+- Enable Ongoing Monitoring
+
+
 
 
