@@ -10,7 +10,7 @@ This project delivers a data-driven dashboard built using Metabase and PostgreSQ
 The project breaks down what sells, when it sells, and how it contributes to overall business performance through dashboards. It includes visualizations of sales trends over time, item and category-wise contributions, price segment analysis, customer ordering behavior, and more.
 
 ## Project Link:
-https://1drv.ms/b/c/b450bede2bbd16bc/EUFekome22lGkQhjuuHxvvIBpRZhkO3dIWS2vo3ddbaNIA?e=4lmFye
+[https://1drv.ms/b/c/b450bede2bbd16bc/EUFekome22lGkQhjuuHxvvIBpRZhkO3dIWS2vo3ddbaNIA?e=4lmFye](https://github.com/azimishtiak/2-Restaurant-Sales-Order-Analysis-PostgreSQL-Metabase/blob/main/Restaurant%20Sales%20%26%20Order%20Analysis_Metabase.pdf)
 
 ## Analyis Summary
 - KPIs like total sales, total orders placed, AOV and average item per order
